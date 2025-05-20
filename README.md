@@ -4,7 +4,7 @@ She is currently a Clinical Research Coordinator for the [PREDiCTOR Study](https
 
 Debi earned an A.B. with Highest Honors in [Sociology](https://sociology.fas.harvard.edu/pages/undergraduate) and [Government](https://www.gov.harvard.edu/undergraduate/programs-of-study/data-science/) from [Harvard University](https://college.harvard.edu/) in 2021, where she pursued a quantitative track and earned a citation in [Portuguese](https://rll.fas.harvard.edu/language-programs), along with a certificate in [Latin American and Iberian Studies](https://prod-drclas2.drupalsites.harvard.edu/certificate-program). She draws on her interdisciplinary background to bridge clinical science and practice, aiming to enhance adaptive, evidence-based approaches to address youth mental health needs.
 
-🔭 Current project: Longitudinal analysis of irritability and suicidality using ABCD Study data
+🔭 Current project: Longitudinal analysis of irritability and suicidality in the ABCD Study
 
 🌱 Learning: Python & clinical interventions for Selective Mutism and anxiety disorders
 
